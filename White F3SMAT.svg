@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 21px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: AgenorNeue-Bold, 'Agenor Neue';
+        font-size: 218.53px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.08em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(69.71 567.39)"><tspan x="0" y="0">F3SM</tspan><tspan class="cls-3" x="608.38" y="0">A</tspan><tspan x="759.16" y="0">T</tspan></text>
+  <path class="cls-1" d="M879.85,587.39c0,32.35-98.89,58.58-220.88,58.58s-220.88-26.23-220.88-58.58"/>
+</svg>
